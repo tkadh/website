@@ -145,7 +145,7 @@ a {
 }
 
 .list--tick {
-    list-style-image: url('../images/tick.svg');
+    list-style-image: url('/tick.2a1a279a.svg');
     padding-left: 3rem;
     color: var(--color-headings);
 }
@@ -385,7 +385,7 @@ a {
 }
 
 .plan--popular .card__header::before {
-    content: url(../images/popular.svg);
+    content: url(/popular.ef67f06e.svg);
     width: 40px;
     display: inline-block;
     position: absolute;
@@ -920,3 +920,5 @@ margin-top: 1rem;
         font-size: 1.6rem;
     }
 }
+
+/*# sourceMappingURL=/styles.b61e60ae.css.map */
