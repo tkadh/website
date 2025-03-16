@@ -937,3 +937,8 @@ margin-top: 1rem;
         font-size: 1.6rem;
     }
 }
+
+.resume {
+    height: 100vh;
+    width: 100vw;
+}
