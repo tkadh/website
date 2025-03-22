@@ -462,10 +462,12 @@ margin-top: 1rem;
 }
 
 .quote__author {
+    color: black;
+    opacity: 0.7;
     font-size: 3rem;
-    font-weight: 500;
+    font-weight: 600;
     font-style: normal;
-    margin-bottom: 0;
+    margin-bottom: 0.3rem;
 }
 
 .quote__company {
@@ -535,7 +537,7 @@ margin-top: 1rem;
 @media screen and (min-width: 768px) {
     .testimonial .quote, 
     .testimonial .quote__author {
-    font-size: 2.4rem;    
+    font-size: 2.3rem;    
     }
 
     .testimonial .quote {
