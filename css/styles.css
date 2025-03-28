@@ -265,6 +265,12 @@ a {
     padding-right: 5rem;
 }
 
+.btn--hero {
+    display: flexbox;
+  justify-content: space-between; /* Distributes buttons with space between them */
+  gap: 15px; /* Adjusts spacing between buttons */
+  margin: 0 auto; /* Centers the button group */
+}
 
 @media screen and (min-width: 1024px) {
     .btn {
