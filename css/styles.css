@@ -208,6 +208,7 @@ a {
     text-align: center;
     text-transform: uppercase;
     white-space: nowrap;
+    font-weight: 600;
 }
 
 .btn .icon {
@@ -241,7 +242,8 @@ a {
 }
 
 .btn--accent:hover {
-    background: #ec3000;
+    background: #ca2800;
+    transition: all 0.3s;
 }
 
 .btn--block {
